@@ -1,0 +1,16 @@
+#baseURL = "http://davidtrumbell.com/"
+baseURL = "https://djtrumbe.github.io/"
+languageCode = "en-us"
+title = "David Trumbell"
+theme = "gohugo-theme-ananke"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 12
+
+[params]
+  description = "Anything I can think of"
+  featured_image = "/images/IMG_0213.JPG"
+  recent_posts_number = 6
+  twitter = "https://twitter.com/davidtrumbell"
