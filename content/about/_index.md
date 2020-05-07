@@ -1,6 +1,4 @@
 ---
 title: "About"
 ---
-Hey all!  I’m a CS major, turned Application Support person who works in the trading industry for Chicago Trading Company.  My wife, Faye, and I moved to London in late 2007, where we live and work now.
-
-Some of my interests include brewing beer, programming in Python, watching sports and TV and hanging out with friends.
+I’m a technologist, fussy coffee lover, student of fine BBQ, amateur/home chef, husband and father. I’ve spent most of my adult life in Chicago, with a long stint in London. The engineer in me is always looking to challenge myself and to learn and grow as a person.

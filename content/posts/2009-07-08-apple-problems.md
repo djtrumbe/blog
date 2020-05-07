@@ -23,13 +23,13 @@ tags:
 Apple products have not been kind to me over the past couple of months.
 
 For starters, about 2 months ago, the plastic on my iPhone's back cracked right at the mute switch.  This is a common problem that has been documented all over the internet (<a title="iPhone cracks" href="http://www.engadgetmobile.com/2008/08/10/our-iphone-3g-cracked-too-what-gives-apple/" target="_blank">link1</a>, <a title="iPhone cracks" href="http://forums.macrumors.com/showthread.php?t=525177" target="_blank">link2</a>).  Here's a picture of mine:
-![iPhoneCaseCracked](/iphonecasecracked.jpg)
+![iPhoneCaseCracked](/images/apple-problems/iphonecasecracked.jpg)
 
 Soon after this happened, I purchased a second battery from the Apple store.  Good thing I did, because the very next day, my original battery wouldn't charge.  I tried swapping it back and forth with the new one, reseating it, resetting the PRAM (to Apple's instructions), all to no avail.  Later that day, I looked at the bad battery and noticed that it had swelled considerably.  I went to the internet and found that this was not uncommon either (<a title="Swollen Battery 1" href="http://blogs.zdnet.com/Apple/?p=457" target="_blank">link1</a>, <a href="http://www.engadget.com/2007/03/21/swollen-batteries-affecting-17-inch-macbook-pros-too/" target="_blank">link2</a>).  Here's a picture of my battery:
-![MBPSwollenBattery](/mbpbatteryswollen.jpg)
+![MBPSwollenBattery](/images/apple-problems/mbpbatteryswollen.jpg)
 
 The last problem happened in the last couple of weeks, this time with my MagSafe power adapter for my Macbook Pro.  First, the end, right near the connector, started to fray.  Then, it turned brown and started not working consistently.  Last night, when I was sitting on the couch and browsing the web, it actually started to smoke.  I immediately unplugged it and have stopped using it.  Again, this is a common complaint on the internet (<a href="http://gizmodo.com/gadgets/laptops/magsafe-burning-not-isolated-183185.php" target="_blank">link1</a>, <a href="http://www.appledefects.com/wiki/index.php?title=Magsafe" target="_blank">link2</a>), this one to the point of a <a href="http://www.macnn.com/articles/09/05/05/apple.sued.over.magsafe/" target="_blank">lawsuit</a>.  Here's the connector on mine:
-![MagSafeBurnt](/magsafeburnt.jpg)
+![MagSafeBurnt](/images/apple-problems/magsafeburnt.jpg)
 
 Now that I've let problems pile up, I finally setup an appointment at the Apple store genius bar.  We'll see how it goes...
 

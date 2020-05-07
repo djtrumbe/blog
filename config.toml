@@ -3,6 +3,7 @@ baseURL = "https://djtrumbe.github.io/"
 languageCode = "en-us"
 title = "David Trumbell"
 theme = "gohugo-theme-ananke"
+staticDir = ["static"]
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -11,6 +12,6 @@ Paginate = 12
 
 [params]
   description = "Anything I can think of"
-  featured_image = "/images/IMG_0213.JPG"
+  featured_image = "/images/header_image.jpg"
   recent_posts_number = 6
   twitter = "https://twitter.com/davidtrumbell"
