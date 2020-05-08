@@ -12,6 +12,6 @@ Paginate = 12
 
 [params]
   description = "Anything I can think of"
-  featured_image = "/images/header_image.jpg"
+  featured_image = "/images/header_image.jp2"
   recent_posts_number = 6
   twitter = "https://twitter.com/davidtrumbell"
