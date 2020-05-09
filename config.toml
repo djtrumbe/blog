@@ -9,6 +9,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 12
+disqusShortname = "davidtrumbell"
 
 [params]
   description = "Anything I can think of"
