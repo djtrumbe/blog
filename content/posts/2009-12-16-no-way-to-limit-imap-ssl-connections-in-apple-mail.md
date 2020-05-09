@@ -19,15 +19,15 @@ tags:
 ---
 Such an annoying problem, especially for connecting to GMail via IMAP.  I constantly get the error: Too many simultaneous connections.  The worst part is this has been known ever since Leopard shipped:
 
- * http://discussions.apple.com/message.jspa?messageID=5820548
- * http://discussions.apple.com/thread.jspa?threadID=1207290&tstart=30
+ * https://discussions.apple.com/thread/5820548
+ * https://discussions.apple.com/thread/1207290
 
 Any fix, Apple?
 
-**UPDATE**
+### UPDATE
 
 This problem seems to date much further back then Leopard.  I've found references to this same issue in late 2003 (v10.3!!), here:
 
- * http://www.macosxhints.com/article.php?story=20031130150826388
+ * https://hints.macworld.com/article.php?story=20031130150826388
 
 Unfortunately, I don't have access to server configuration as my problem is with GMail.  It seems like Apple may never fix this.

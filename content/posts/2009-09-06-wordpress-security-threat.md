@@ -22,7 +22,7 @@ It's been posted all over the internet as of late, but I'd like to remind everyo
 
 From the above links, the way to keep yourself safe from this attack is by upgrading.  Make sure you back your DB beforehand.  The easiest way to backup your DB is via this plugin:
 
-[wp-db-backup](http://www.ilfilosofo.com/blog/wp-db-backup)
+[wp-db-backup](https://github.com/matzko/wp-db-backup)
 
 The sooner you upgrade, the sooner you are safe from this exploit.
 

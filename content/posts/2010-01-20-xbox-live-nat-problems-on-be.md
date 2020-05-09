@@ -15,7 +15,7 @@ tags:
   - XBox Live
 
 ---
-For quite a while I've struggled with a 'strict' NAT when connecting to XBox Live.  I've finally fixed this problem.  Apparently, [BE](https://www.bethere.co.uk/) locks down their Speedtouch routers which creates this problem.  The fix is simple:
+For quite a while I've struggled with a 'strict' NAT when connecting to XBox Live.  I've finally fixed this problem.  Apparently, [BE](https://en.wikipedia.org/wiki/Be_Un_Limited) locks down their Speedtouch routers which creates this problem.  The fix is simple:
 
  * http://www.beusergroup.co.uk/technotes/index.php/Xbox_Live
 

@@ -23,8 +23,8 @@ Unfortunately, immediately after installing the update, my battery life was terr
 
 A quick internet search yielded numerous claims of this issue:
 
-  * [Twitter](http://twitter.com/#search?q=iphone%20battery)
-  * [Thread](http://discussions.apple.com/thread.jspa?threadID=2046858&tstart=15"), after [thread](http://discussions.apple.com/thread.jspa?messageID=9651134), after [thread](http://discussions.apple.com/thread.jspa?threadID=2044005&start=0&tstart=0) in Apple's own discussions
-  * [Pocket-lint](http://www.pocket-lint.com/news/news.phtml/24964/iphone-3-0-battery-life-issues.phtml)
+  * [Twitter](https://twitter.com/#search?q=iphone%20battery)
+  * [Thread](https://discussions.apple.com/thread/2046858), after [thread](https://discussions.apple.com/thread/9651134), after [thread](https://discussions.apple.com/thread/2044005) in Apple's own discussions
+  * [Pocket-lint](https://www.pocket-lint.com/news/news.phtml/24964/iphone-3-0-battery-life-issues.phtml)
 
-I hope that Apple recognizes that this is a problem and does something about it soon.  Maybe in [OS 3.1](http://www.engadget.com/2009/07/14/iphone-os-3-1-beta-2-released/)?
+I hope that Apple recognizes that this is a problem and does something about it soon.  Maybe in [OS 3.1](https://www.engadget.com/2009/07/14/iphone-os-3-1-beta-2-released/)?

@@ -15,7 +15,7 @@ tags:
   - o2
 
 ---
-I know that much has been made of [data and connectivity problems on AT&T](http://www.tuaw.com/2009/09/04/atandt-tries-to-repair-the-pr-damage/) in the States, but I've found O2 to be just as bad, if not worse.  About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data.  Loading webpages doesn't work, refreshing mail doesn't work, connecting to the App Store doesn't work, etc.  This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.
+I know that much has been made of [data and connectivity problems on AT&T](https://www.engadget.com/2009-09-04-atandt-tries-to-repair-the-pr-damage.html) in the States, but I've found O2 to be just as bad, if not worse.  About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data.  Loading webpages doesn't work, refreshing mail doesn't work, connecting to the App Store doesn't work, etc.  This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.
 
 During the latest outage (today at around 1 PM GMT), I asked 2 co-workers, 1 with a 3G Blackberry and 1 with an iPhone, to try to access a webpage.  They were also unable to do so, even though both had 3G access and full bars.  I understand that this could be a problem with the cell tower, but this happens almost every single day, and not always at work.
 

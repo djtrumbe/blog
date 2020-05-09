@@ -37,6 +37,8 @@ Feeling motivated after reading about DIY stir plates on a few brew forums, I de
   * Stir Bar - octagonal bar with pivot ring
     * from Ebay, $4
 
+### Pictures
+
 ![Rheostat](/images/stir-plate/0.jpg)
 Rheostat (271-265)
 
