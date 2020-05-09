@@ -23,8 +23,8 @@ Unfortunately, immediately after installing the update, my battery life was terr
 
 A quick internet search yielded numerous claims of this issue:
 
-  * <a title="Twitter: iPhone battery search" href="http://twitter.com/#search?q=iphone%20battery" target="_blank">Twitter</a>
-  * <a title="Apple Discussion" href="http://discussions.apple.com/thread.jspa?threadID=2046858&tstart=15" target="_blank">Thread</a>, after <a title="Apple Discussion" href="http://discussions.apple.com/thread.jspa?messageID=9651134" target="_blank">thread</a>, after <a title="Apple Discussion" href="http://discussions.apple.com/thread.jspa?threadID=2044005&start=0&tstart=0" target="_blank">thread</a> in Apple's own discussions
-  * <a title="Pocket-Lint" href="http://www.pocket-lint.com/news/news.phtml/24964/iphone-3-0-battery-life-issues.phtml" target="_blank">Pocket-lint</a>
+  * [Twitter](http://twitter.com/#search?q=iphone%20battery)
+  * [Thread](http://discussions.apple.com/thread.jspa?threadID=2046858&tstart=15"), after [thread](http://discussions.apple.com/thread.jspa?messageID=9651134), after [thread](http://discussions.apple.com/thread.jspa?threadID=2044005&start=0&tstart=0) in Apple's own discussions
+  * [Pocket-lint](http://www.pocket-lint.com/news/news.phtml/24964/iphone-3-0-battery-life-issues.phtml)
 
-I hope that Apple recognizes that this is a problem and does something about it soon.  Maybe in <a title="Engadget: OS 3.1 b2" href="http://www.engadget.com/2009/07/14/iphone-os-3-1-beta-2-released/" target="_blank">OS 3.1</a>?
+I hope that Apple recognizes that this is a problem and does something about it soon.  Maybe in [OS 3.1](http://www.engadget.com/2009/07/14/iphone-os-3-1-beta-2-released/)?
