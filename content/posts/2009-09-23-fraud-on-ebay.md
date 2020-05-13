@@ -4,7 +4,7 @@ author: David Trumbell
 type: post
 date: 2009-09-23T11:36:28+00:00
 url: /2009/09/23/fraud-on-ebay/
-disqus_identifier: 134
+disqus_identifier: '134 http://www.davidtrumbell.com/?p=134'
 dsq_thread_id:
   - 131593770
 categories:
